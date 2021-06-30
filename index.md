@@ -1,5 +1,9 @@
 ## Welcome to BitcoinEco
 
+Contract: 0xf28B5eBC98bE9a7D58269C782938180DdE3B40Ed
+
+[Etherscan](https://etherscan.io/token/0xf28b5ebc98be9a7d58269c782938180dde3b40ed)
+
 Where ecology meets economics.  bitcoinEco is the entire Bitcoin system run in a smart contract where you will be able to earn by staking your BitcoinEco.
 
 ### Tokenomics
