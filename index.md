@@ -8,7 +8,7 @@ Where ecology meets economics.  bitcoinEco is the entire Bitcoin system run in a
 
 ### Tokenomics
 
-BitcoinEco tokenomics mirrors Bitcoin with an ERC-20 Token which has minted to a legacy address, this address pays out BTCECO to deligaters proportionally to theyre stake every 5 days. These rewards are halved according to Bitcoins halving cycle.
+The BitcoinEco tokenomics mirror Bitcoin with an ERC-20 Token which has minted to a genesis address,  this address pays BTCECO to delegators proportionally to the amount staked every 5 days.  these rewards are halved according to Bitcoins halving cycle.
 
 
 
